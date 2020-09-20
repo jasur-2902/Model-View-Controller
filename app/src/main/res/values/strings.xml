@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_1_multiplication">125 * 5 = 625</string>
+    <string name="question_2_square">16^2 = 256</string>
+    <string name="question_3_square">19^2 = 381</string>
+    <string name="question_4_division">729/7 = 103</string>
+    <string name="question_5_multiplication">13 * 13 = 219</string>
+    <string name="question_6_square_root"> √625 = 25 </string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
